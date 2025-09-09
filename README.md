@@ -1,5 +1,5 @@
 # 👋 Hola, soy Aldo-Daniel Galván Rodríguez  
-
+![Banner](./banner1.png)
 
 🎯 **Analista de Datos | Business Intelligence | Python & SQL**  
 
