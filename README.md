@@ -31,7 +31,7 @@ Actualmente desarrollo proyectos de **Data Analytics** aplicando Python, SQL, Ta
 
 ## 🏆 Logros destacados  
 - Incrementé ventas en un **65%** al identificar tendencias de consumo.  
-- Reduje errores en conciliaciones financieras en un **40%** con controles estadísticos.  
+- Reduje errores en conciliaciones fdinancieras en un **40%** con controles estadísticos.  
 - Ahorré más de **20 horas semanales** automatizando reportes con Python/Excel.  
 - Aumenté la satisfacción del cliente en un **85%** gracias a seguimiento personalizado.  
 
