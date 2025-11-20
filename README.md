@@ -1,5 +1,7 @@
 # 👋 Hola, soy Aldo Daniel Galván
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aldodan17/aldodan17/main/Banner.png" width="100%">
+</p>
 🎯 **Analista de Datos | Business Intelligence | Python & SQL**
 
 Soy un analista orientado a resultados, con formación en Economía y experiencia real tanto en análisis de datos como en operación de negocios. Combino herramientas como **Python, SQL, pandas, matplotlib, seaborn, análisis estadístico y modelado básico** con una comprensión profunda del comportamiento del cliente, los procesos operativos y la toma de decisiones basada en datos.
